@@ -10,23 +10,36 @@ Para montar esse projeto foram usados os seguintes materiais:
 * NodeMCU V3
 * Um servo motor
 * Casa feita com MDF [ Corte a laser ]
-* 10 LED's
+* 8 LED's
 * Placa fenolite perfurada
 * Power Bank
 * Alguns jumpers
+
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem2.png)
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem9.jpg)
 
 # Softwares utilizados
 
 * Autodesk AutoCAD
 * IDE Arduino
 
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem1.png)
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem4.png)
+
 # Código
-O código está disponível.  
+O código está disponível na pasta Códigos_SmartHouse.  
+
+# Primeiros Testes
+
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem6.jpg)
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem7.jpg)
+
+# Sistema de Ilumição - Blynk
+
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem5.png)
 
 # Projeto finalizado
 Seguem algumas imagem do resultado do projeto e um breve vídeo de seu funcionamento.
 
-![Imagem do Projeto](https://github.com/BrinoOficial/PainelSolar/blob/master/Fotos/IMG_5304.jpg)
-![Imagem do Projeto](https://github.com/BrinoOficial/PainelSolar/blob/master/Fotos/IMG_5305.jpg)
-![Imagem do Projeto](https://github.com/BrinoOficial/PainelSolar/blob/master/Fotos/IMG_5306.jpg)
-![Imagem do Projeto](https://github.com/BrinoOficial/PainelSolar/blob/master/Fotos/IMG_5307.jpg)
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem8.jpg)
+![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem10.jpg)
