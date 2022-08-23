@@ -44,7 +44,7 @@ O código está disponível na pasta Códigos_SmartHouse.
 * Modo Economia: Sensor de Luminosidade LDR controla automaticamente a intensidade da luminosidade de acordo com o ambiente
 
 # Projeto finalizado
-Seguem algumas imagem do resultado do projeto e um breve vídeo de seu funcionamento.
+Seguem algumas imagens do resultado do projeto.
 
 ![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem8.jpg)
 ![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem10.jpg)
