@@ -1,7 +1,7 @@
 # SmartHouse
 * Trabalho Introdução à Eng. da Computação
 
-Neste projeto utilizamos dois microcontroladores, um Arduino com shield para controlar o sistema de fechadura por biometria e um NodeMCU para controlar um sistema de iluminação remotamente. Usamos, para o sistema de fechadura, um diplay 16x2, um touch e um servo motor. Para fazer a tranca foi usado o servo motor. Para mostrar o funcionamento da tranca em tempo real ao usuário foi usado um display 16x2 e para simular a biometria foi usado o touch. Já para o sistema de iluminação foi feito um arranjo com leds em uma placa fenolite perfurada que foi fixada no teto da casa, e. Para a alimentação de todo o sistema foi usado uma power bank. A casa foi desenhada no software Autodesk AutoCAD para ser cortada em uma impressora a laser.
+Neste projeto utilizamos dois microcontroladores, um Arduino com shield para controlar o sistema de fechadura por biometria e um NodeMCU para controlar um sistema de iluminação remotamente. Usamos, para o sistema de fechadura, um diplay 16x2, um touch e um servo motor. Para fazer a tranca foi usado o servo motor. Para mostrar o funcionamento da tranca em tempo real ao usuário foi usado um display 16x2 e para simular a biometria foi usado o touch. Já para o sistema de iluminação foi feito um arranjo com leds em uma placa fenolite perfurada que foi fixada no teto da casa, e usado um sensor de luminosidade LDR para controlar automaticamente a intensidade da iluminação. Para a alimentação de todo o sistema foi usado uma power bank. A casa foi desenhada no software Autodesk AutoCAD para ser cortada em uma impressora a laser.
 
 # Materiais
 Para montar esse projeto foram usados os seguintes materiais:
@@ -12,6 +12,7 @@ Para montar esse projeto foram usados os seguintes materiais:
 * Casa feita com MDF [ Corte a laser ]
 * 8 LED's
 * Placa fenolite perfurada
+* Sensor de Luminosidade LDR
 * Power Bank
 * Alguns jumpers
 
@@ -37,6 +38,10 @@ O código está disponível na pasta Códigos_SmartHouse.
 # Sistema de Ilumição - Blynk
 
 ![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem5.png)
+
+* Acender: Luminosidade 100%
+* Apagar: Luminosidade 0%
+* Modo Economia: Sensor de Luminosidade LDR controla automaticamente a intensidade da luminosidade de acordo com o ambiente
 
 # Projeto finalizado
 Seguem algumas imagem do resultado do projeto e um breve vídeo de seu funcionamento.
