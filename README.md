@@ -39,8 +39,8 @@ O código está disponível na pasta Códigos_SmartHouse.
 
 ![Imagem do Projeto](https://github.com/ThiagoMiguel7/SmartHouse/blob/main/Fotos/Imagem5.png)
 
-* Acender: Luminosidade 100%
-* Apagar: Luminosidade 0%
+* Acender: Luminosidade em 100%
+* Apagar: Luminosidade em 0%
 * Modo Economia: Sensor de Luminosidade LDR controla automaticamente a intensidade da luminosidade de acordo com o ambiente
 
 # Projeto finalizado
